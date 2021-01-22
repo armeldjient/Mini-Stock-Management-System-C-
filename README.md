@@ -1,2 +1,2 @@
 # Mini-Stock-Management-System-C#
-Simple Stock Management Application Using C# and SqlServer
+Simple Stock Management Application Using C# and SqlServer.
